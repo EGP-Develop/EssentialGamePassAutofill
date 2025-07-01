@@ -11,8 +11,7 @@ I am planning to add source code along with support for new features if this tak
 
 To be able to keep the app sustained and supported, I need your support as well. If you guys like to help me out,
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="CalckKey" data-color="#5F7FFF" data-emoji=""  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
-
+Support me on [Buy Me a Coffee](https://www.buymeacoffee.com/CalckKey)!
 
 Check out my app in Microsoft Store:
 
